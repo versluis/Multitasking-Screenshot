@@ -8,6 +8,7 @@
 
 #import "MasterViewController.h"
 #import "DetailViewController.h"
+#import "AppDelegate.h"
 
 @interface MasterViewController ()
 
